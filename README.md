@@ -1,11 +1,10 @@
 # MovieApp
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
+MovieApp is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
 
-## Flix Part 1
+## MovieApp Part 1
 
 ### User Stories
 
@@ -23,4 +22,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/mLEt6C67j0.gif" width=250><br>
 
 ### Notes
-Didn't really face any difficult challenges while building the app. One thing I really enjoyed was using an API to feed data into my project. I also liked working with Pods to integrate an external library to my project.
+While working on the app, I didn't really face any difficult challenges. One thing I really enjoyed was using an API to feed data into my project. I also liked working with Pods to integrate an external library to my project.
