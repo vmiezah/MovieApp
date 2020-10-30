@@ -24,7 +24,7 @@ While working on the project, I faced several issues:
 -->
 # CineMatrix
 
-CineMatrix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+CineMatrix is an app that allows users to browse movies from the [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction).
 
 ---
 
